@@ -1,5 +1,6 @@
 # 프로젝트 개요
 1. 42seoul 커리큘럼 중 Multi-Thread C 프로젝트를 C++ 로 구현함
+    - 이전에 42서울에서 C로 만든 프로그램은 내용을 잘못이해하고 잘못 구현한 부분이 있음. 이에 C++로 객체지향적으로 다시 구현해봤음
     - [42서울 과제 정리 노션 링크](https://dongchoi.notion.site/Philosopher-947e57952e334043994125430f18b611)
     - [42서울 과제 코드 github](https://github.com/donghyeon-d/42cursus.git) /42cursus/philosopher
 
